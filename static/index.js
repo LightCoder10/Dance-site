@@ -37,6 +37,7 @@ function newElement() {
     alert("You must write something!");
   } else {
     document.getElementById("myUL").appendChild(li);
+    
    
   }
   document.getElementById("myInput").value = "";
