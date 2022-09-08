@@ -1,0 +1,19 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    
+  
+    #introsection{
+        width: 1029px;
+    }
+    #ul{
+        display: flex;
+        height: 150px;
+        flex-direction: column;
+        width: 1029px;
+    }
+    #ul>li{
+        margin: 5px;
+    }
+    footer{
+        width: 1029px;
+    }
+    }

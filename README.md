@@ -25,7 +25,7 @@ $CSS
 $bootstrap to create fe easy buttons
 $plain javascript
 $node js and express to serve pages
-$Mongodb to use for submission of contact form(Not working as of now)
+$Mongodb to use for submission of contact form
 
 Source Code
 ------------
