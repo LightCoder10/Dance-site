@@ -29,7 +29,7 @@ $Mongodb to use for submission of contact form
 
 Source Code
 ------------
-github: https://github.com/LightCoder10/timer-web
+github: https://github.com/LightCoder10/timer-site
 or you can simply use the site which i made by deploying the web app in heroku
 web-site: https://timer-web.herokuapp.com/
 
